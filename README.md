@@ -39,9 +39,9 @@
     * **Docker**
     * **Micro-Services**
     * **Firebase Storage, Functions, Auth**
-    * **NODEJS**
-    * **ExpressJS**
-    * **FeathersJS**
+    * **NODE.JS**
+    * **Express.JS**
+    * **Feathers.JS**
 
 
 - 📫 How to reach me: ...
@@ -50,4 +50,7 @@
     * **Email : mobiusndou@gmail.com**
     * **Twitter : [@blueitserver](https://twitter.com/blueitserver)**
 
-
+- 📫 I am Available for freelance Gigs
+    * Presently available for freelance Gigs, Going Rate
+    *  **Hourly $ 15.00 / Hour**
+    *  **$ 450.00 / Gig or Negotiable**
