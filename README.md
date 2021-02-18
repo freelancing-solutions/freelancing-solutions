@@ -34,6 +34,16 @@
     * **Google App Engine**
     * **Javascript**
     * **React.js**
+    * **Google CloudRUN**
+    * **GCP Functions**
+    * **Docker**
+    * **Micro-Services**
+    * **Firebase Storage, Functions, Auth**
+    * **NODEJS**
+    * **ExpressJS**
+    * **FeathersJS**
+
+
 - 📫 How to reach me: ...
     * **[Contact Me](https://justice-ndou.appspot.com/contact)**
     * **Cell : +27762777153**
