@@ -29,25 +29,39 @@
 
 - 💬 Ask me about ...
   - **Python**
-  - **Google App Engine**
+    - ***3.x***
+    - ***Jinja2***
+    - ***Flask***
+    - ***Fast-API***
   - **Javascript**
   - **React.js**
-  - **Google CloudRUN**
-  - **GCP Functions**
+  - **GCP - Google Cloud Platform**
+    - ***App-Engine***
+      - ***Python 3.x***
+    - ***Cloud-Run***
+      - ***Python (Flask, Fast-API)***
+      - ***Node.js***
+    - ***Functions***
+      - ***Python (Flask, Fast-API)***
+      - ***Node.js***
   - **Docker**
   - **Micro-Services**
-  - **Firebase Storage, Functions, Auth**
+  - [Firebase](https://firebase.com)
+    - Auth
+    - Firestore
+    - Functions
   - **NODE.JS**
   - **Express.JS**
   - **Feathers.JS**
+
+- 📫 I am available for ***Freelance*** Gigs
+  - Presently available for freelance Gigs, Going Rate
+  - **Hourly $ 15.00 / Hour**
+  - **$ 450.00 / Gig or Negotiable**
 
 - 📫 How to reach me: ...
   - **[Contact Me](https://justice-ndou.appspot.com/contact)**
   - **Cell : +27762777153**
   - **Email : mobiusndou@gmail.com**
   - **Twitter : [@blueitserver](https://twitter.com/blueitserver)**
-
-- 📫 I am Available for freelance Gigs
-  - Presently available for freelance Gigs, Going Rate
-  - **Hourly $ 15.00 / Hour**
-  - **$ 450.00 / Gig or Negotiable**
+  - **Profile : [Justice Ndou](https://justice-ndou.appspot.com)**
