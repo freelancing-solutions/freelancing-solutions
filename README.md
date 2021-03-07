@@ -1,7 +1,11 @@
 
-# Freelancing Solutions with Justice Ndou
+# GIT Profile of [Justice Ndou](https://justice-ndou.appspot.com)
 
-### Hi there I am Justice Ndou 👋
+## Freelance Developer
+- Experienced in Google Cloud Platform Based Projects
+##
+
+#### Working on a start-up Named Pocket Money Wallet
 
 - 🔭 projects I’m currently working on ...
   - [Pocket Money Wallet](https://pocket-money.site/)
@@ -50,9 +54,16 @@
     - Auth
     - Firestore
     - Functions
-  - **NODE.JS**
-  - **Express.JS**
-  - **Feathers.JS**
+  - **Node.js**
+  - **Express.js**
+  - **Feathers.js**
+  - **Code Testing and Error Reporting**
+    - Pytest.org 
+      - I use Pytest to test my python code, [documentations can be found here](https://docs.pytest.org/en/stable/contents.html)
+    - JestJs.io
+      - I use Jest for Javascript, Node.js, & React Testing , [Jest Docs Here](https://jestjs.io/docs/en/getting-started.html)
+    - Sentry.IO
+      - For all (Python, Flask, Node.JS, Javascript, Node.js, React and etc ) my production and development error monitoring and reporting , [Sentry Docs](https://docs.sentry.io/)
 
 - 📫 I am available for ***Freelance*** Gigs
   - Presently available for freelance Gigs, Going Rate
