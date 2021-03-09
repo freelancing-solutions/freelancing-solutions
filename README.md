@@ -12,6 +12,14 @@
   - [Bulk Emailer API for Pocket Money Wallet](https://emailer.pocket-money.site)
   - [Node.js Socket.io based Real time Chat for Pocket Money Wallet](https://github.com/freelancing-solutions/chat)
 
+### Check My Gists to see what i am doing and busy thinking about while coding
+
+- [My Programming Gist](https://gist.github.com/freelancing-solutions)
+  - [JWt Authentication Supporting Service Worker](https://gist.github.com/freelancing-solutions/8891501dbad18d85568380781d3c50f1)
+  - [Flask Based JWt Auth Routes Handler](https://gist.github.com/freelancing-solutions/8891501dbad18d85568380781d3c50f1)
+  - [Using PyTest for Alchemy Models](https://gist.github.com/freelancing-solutions/10edc55038ce2a48c485b16fdbdc69a3)
+
+
 - 🔭 started collaborating on the following open source projects ....
   - [dogecoin website](https://github.com/dogecoin/dogecoin.com)
   - [eosjs General purpose library for the EOSIO blockchain.](https://github.com/EOSIO/eosjs)
