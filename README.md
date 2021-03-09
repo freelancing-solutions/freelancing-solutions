@@ -20,6 +20,10 @@
   - [Using PyTest for Alchemy Models](https://gist.github.com/freelancing-solutions/10edc55038ce2a48c485b16fdbdc69a3)
   - [Email API Based on Node.JS, NodeMailer, & Mailgen](https://gist.github.com/freelancing-solutions/3b8d5c5001ea94afa9c414b3d5431eaf)
 
+- ### Blue IT Marketing Repositories
+  - Blue IT Marketing contains more of the projects of which i worked on as a Freelancer
+  - [Blue IT Marketing](https://github.com/Blue-IT-Marketing)
+
 - 🔭 started collaborating on the following open source projects ....
   - [dogecoin website](https://github.com/dogecoin/dogecoin.com)
   - [eosjs General purpose library for the EOSIO blockchain.](https://github.com/EOSIO/eosjs)
