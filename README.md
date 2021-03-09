@@ -18,7 +18,7 @@
   - [JWt Authentication Supporting Service Worker](https://gist.github.com/freelancing-solutions/8891501dbad18d85568380781d3c50f1)
   - [Flask Based JWt Auth Routes Handler](https://gist.github.com/freelancing-solutions/8891501dbad18d85568380781d3c50f1)
   - [Using PyTest for Alchemy Models](https://gist.github.com/freelancing-solutions/10edc55038ce2a48c485b16fdbdc69a3)
-
+  - [Email API Based on Node.JS, NodeMailer, & Mailgen](https://gist.github.com/freelancing-solutions/3b8d5c5001ea94afa9c414b3d5431eaf)
 
 - 🔭 started collaborating on the following open source projects ....
   - [dogecoin website](https://github.com/dogecoin/dogecoin.com)
