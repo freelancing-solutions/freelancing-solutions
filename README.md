@@ -9,8 +9,9 @@
 
 - 🔭 projects I’m currently working on ...
   - [UK Property Development API Proxy](https://github.com/freelancing-solutions/UK-Property-Development-API-Proxy)
-  - [Database as a Service](https://github.com/freelancing-solutions/pinydesk)
+  - [Database as a Service (GCP Platform)](https://github.com/freelancing-solutions/pinydesk)
   - [Sellenium & Headless Chrome on Google Cloud Run (Docker Instance)](https://github.com/freelancing-solutions/sellenium-headless-on-GCP-Cloud-Run)
+  - [GCP Cloud Run Admin App (Docker, Python3.8, Flask)](https://github.com/freelancing-solutions/Flask-admin_app)
 
 ### Check My Gists to see what i am doing and busy thinking about while coding
 
