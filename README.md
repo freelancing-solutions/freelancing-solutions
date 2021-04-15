@@ -41,8 +41,6 @@
   - **Open Source Node.js**
   - **Open Source Python Based Projects**
   - **Open Source Block Chain Based Projects**
-- 🤔 I’m looking for help with ...
-  - [Pocket Money Wallet](https://pocket-money.site)
 
 - 💬 Ask me about ...
   - **Python**
