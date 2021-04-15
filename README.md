@@ -8,9 +8,9 @@
 #### Working on a start-up Named Pocket Money Wallet
 
 - 🔭 projects I’m currently working on ...
-  - [Pocket Money Wallet](https://pocket-money.site/)
-  - [Bulk Emailer API for Pocket Money Wallet](https://emailer.pocket-money.site)
-  - [Node.js Socket.io based Real time Chat for Pocket Money Wallet](https://github.com/freelancing-solutions/chat)
+  - [UK Property Development API Proxy](https://github.com/freelancing-solutions/UK-Property-Development-API-Proxy)
+  - [Database as a Service](https://github.com/freelancing-solutions/pinydesk)
+  - [Sellenium & Headless Chrome on Google Cloud Run (Docker Instance)](https://github.com/freelancing-solutions/sellenium-headless-on-GCP-Cloud-Run)
 
 ### Check My Gists to see what i am doing and busy thinking about while coding
 
