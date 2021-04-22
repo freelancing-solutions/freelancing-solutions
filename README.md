@@ -2,7 +2,15 @@
 # GIT Profile of [Justice Ndou](https://justice-ndou.appspot.com)
 
 ## Freelance Developer
-- Experienced in Google Cloud Platform Based Projects
+- Experienced in 
+  - Google Cloud Platform Based Projects
+  - Python 3.8 / 3.9 
+  - Jinja Templates
+  - Flask
+  - Node.JS
+  - Express.JS
+  - MySQl, Firebase-Firestore / Datastore / MongoDB / Redis
+  - Docker
 ##
 
 #### Working on a start-up Named Pocket Money Wallet
