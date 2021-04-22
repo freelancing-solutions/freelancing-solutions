@@ -88,6 +88,7 @@
   - Presently available for freelance Gigs, Going Rate
   - **Hourly $ 30.00 / Hour**
   - **$ 450.00 / Gig or Negotiable**
+  - HireMe : [UpWork](https://www.upwork.com/o/profiles/users/~01f013b5a637b415f8/)
 
 - 📫 How to reach me: ...
   - **[Contact Me](https://justice-ndou.appspot.com/contact)**
