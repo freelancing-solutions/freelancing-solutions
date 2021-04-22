@@ -86,7 +86,7 @@
 
 - 📫 I am available for ***Freelance*** Gigs
   - Presently available for freelance Gigs, Going Rate
-  - **Hourly $ 15.00 / Hour**
+  - **Hourly $ 30.00 / Hour**
   - **$ 450.00 / Gig or Negotiable**
 
 - 📫 How to reach me: ...
