@@ -95,5 +95,5 @@
   - **Cell : +27762777153**
   - **Email : mobiusndou@gmail.com**
   - **Twitter : [@blueitserver](https://twitter.com/blueitserver)**
-  - **Profile : [Justice Ndou](https://justice-ndou.appspot.com)**
+  - **Profile : [Justice Ndou](https://justice-ndou.site)**
   - **Upwork Profile : [Justice](https://www.upwork.com/o/profiles/users/~01f013b5a637b415f8/)**
