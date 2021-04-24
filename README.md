@@ -1,5 +1,5 @@
 
-# GIT Profile of [Justice Ndou](https://justice-ndou.appspot.com)
+# GIT Profile of [Justice Ndou](https://justice-ndou.site)
 
 ## Freelance Developer
 - Experienced in 
@@ -91,7 +91,7 @@
   - HireMe : [UpWork](https://www.upwork.com/o/profiles/users/~01f013b5a637b415f8/)
 
 - 📫 How to reach me: ...
-  - **[Contact Me](https://justice-ndou.appspot.com/contact)**
+  - **[Contact Me](https://justice-ndou.site/contact)**
   - **Cell : +27762777153**
   - **Email : mobiusndou@gmail.com**
   - **Twitter : [@blueitserver](https://twitter.com/blueitserver)**
