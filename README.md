@@ -14,14 +14,15 @@
 ##
 #### My Tech Stack
 <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/wired/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/mysql.png"/> 
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
-#### Working on a start-up Named Pocket Money Wallet
 
 - 🔭 projects I’m currently working on ...
   - [UK Property Development API Proxy](https://github.com/freelancing-solutions/UK-Property-Development-API-Proxy)
   - [Database as a Service (GCP Platform)](https://github.com/freelancing-solutions/pinydesk)
   - [Sellenium & Headless Chrome on Google Cloud Run (Docker Instance)](https://github.com/freelancing-solutions/sellenium-headless-on-GCP-Cloud-Run)
   - [GCP Cloud Run Admin App (Docker, Python3.8, Flask)](https://github.com/freelancing-solutions/Flask-admin_app)
+  - 
 
 ### Check My Gists to see what i am doing and busy thinking about while coding
 
@@ -30,6 +31,9 @@
   - [Flask Based JWt Auth Routes Handler](https://gist.github.com/freelancing-solutions/8891501dbad18d85568380781d3c50f1)
   - [Using PyTest for Alchemy Models](https://gist.github.com/freelancing-solutions/10edc55038ce2a48c485b16fdbdc69a3)
   - [Email API Based on Node.JS, NodeMailer, & Mailgen](https://gist.github.com/freelancing-solutions/3b8d5c5001ea94afa9c414b3d5431eaf)
+  - [EOD Historical Data](https://github.com/freelancing-solutions/python-eodhistoricaldata)
+  - [GCP Python NDB](https://github.com/freelancing-solutions/python-ndb)
+  - [GCP Python Datastore](https://github.com/freelancing-solutions/python-datastore)
 
 - ### Blue IT Marketing Repositories
   - Blue IT Marketing contains more of the projects of which i worked on as a Freelancer
