@@ -32,6 +32,7 @@
   - [Using PyTest for Alchemy Models](https://gist.github.com/freelancing-solutions/10edc55038ce2a48c485b16fdbdc69a3)
   - [Email API Based on Node.JS, NodeMailer, & Mailgen](https://gist.github.com/freelancing-solutions/3b8d5c5001ea94afa9c414b3d5431eaf)
 
+#### Presently Developing [EODHistorical Data for Stock Exchanges ](https://github.com/freelancing-solutions/python-eodhistoricaldata)
 ```python
   @_handle_environ_error
   @_handle_request_errors
@@ -66,7 +67,35 @@
           params["api_token"] = "YOUR_HIDDEN_API"
           raise RemoteDataError(r.status_code, r.reason, _url(url, params))
 ```
+### Beatiful Python Wrapper Code for Stock Tickers [stock-tickers-data-service](https://github.com/freelancing-solutions/GCP-Based-Database-as-a-Service/blob/main/data_service/views/stocks.py)
+```python
+    @staticmethod
+    def get_stock_data(func):
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            stock_data: dict = kwargs.get('stock_data')
+            if 'stock_id' in stock_data and stock_data['stock_id'] != "":
+                stock_id: str = stock_data.get('stock_id') or None
+            else:
+                stock_id = create_id(size=12)
+            if 'stock_code' in stock_data and stock_data['stock_code'] != "":
+                stock_code: str = stock_data.get('stock_code') or None
+            else:
+                return jsonify({'status': False, 'message': 'Stock Code is required'}), 500
 
+            if 'stock_name' in stock_data and stock_data['stock_name'] != "":
+                stock_name: str = stock_data.get('stock_name') or None
+            else:
+                return jsonify({'status': False, 'message': 'Stock Name is required'}), 500
+            if 'symbol' in stock_data and stock_data['symbol'] != "":
+                symbol: str = stock_data.get('symbol') or None
+            else:
+                return jsonify({'status': False, 'message': 'Stock Symbol is required'}), 500
+
+            return func(stock_id=stock_id, stock_code=stock_code, stock_name=stock_name, symbol=symbol, *args)
+
+        return wrapper
+```
 - ### Blue IT Marketing Repositories
   - Blue IT Marketing contains more of the projects of which i worked on as a Freelancer
   - [Blue IT Marketing](https://github.com/Blue-IT-Marketing)
