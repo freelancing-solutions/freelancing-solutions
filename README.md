@@ -32,6 +32,41 @@
   - [Using PyTest for Alchemy Models](https://gist.github.com/freelancing-solutions/10edc55038ce2a48c485b16fdbdc69a3)
   - [Email API Based on Node.JS, NodeMailer, & Mailgen](https://gist.github.com/freelancing-solutions/3b8d5c5001ea94afa9c414b3d5431eaf)
 
+```python
+  @_handle_environ_error
+  @_handle_request_errors
+  def get_eod_data(symbol: str, exchange: str, start: typing.Union[str, int] = None, end: typing.Union[str, int] = None,
+                   api_key: str = EOD_HISTORICAL_DATA_API_KEY_DEFAULT,
+                   session: typing.Union[None, requests.Session] = None) -> typing.Union[pd.DataFrame, None]:
+      """
+      Returns EOD (end of day data) for a given symbol
+      """
+      symbol_exchange: str = "{}.{}".format(symbol, exchange)
+      session: requests.Session = _init_session(session)
+      start, end = _sanitize_dates(start, end)
+      endpoint: str = "/eod/{}".format(symbol_exchange)
+      url: str = EOD_HISTORICAL_DATA_API_URL + endpoint
+      params: dict = {
+          "api_token": api_key,
+          "from": _format_date(start),
+          "to": _format_date(end)
+      }
+      r: requests.Response = session.get(url, params=params)
+      print('status code : {}'.format(r.status_code))
+
+      if r.status_code == requests.codes.ok:
+          # NOTE engine='c' which is default does not support skipfooter
+          df: typing.Union[pd.DataFrame, None] = pd.read_csv(StringIO(r.text), engine='python',
+                                                             skipfooter=1, parse_dates=[0], index_col=0)
+          return df
+      elif r.status_code == api_key_not_authorized:
+          print("API Key Restricted, Try upgrading your API Key: {}".format(__name__))
+          return sentinel
+      else:
+          params["api_token"] = "YOUR_HIDDEN_API"
+          raise RemoteDataError(r.status_code, r.reason, _url(url, params))
+```
+
 - ### Blue IT Marketing Repositories
   - Blue IT Marketing contains more of the projects of which i worked on as a Freelancer
   - [Blue IT Marketing](https://github.com/Blue-IT-Marketing)
