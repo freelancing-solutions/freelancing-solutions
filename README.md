@@ -1,5 +1,5 @@
 
-# GIT Profile of [Justice Ndou](https://justice-ndou.site)
+### GIT Profile of [Justice Ndou](https://justice-ndou.site)
 
 #### Freelance Developer
 - Experienced in 
@@ -23,7 +23,7 @@
   - ** [GCP Cloud Run Admin App (Docker, Python3.8, Flask)](https://github.com/freelancing-solutions/Flask-admin_app) **
 
 
-### Gist Profile
+#### Gists Feed
 - [My Programming Gist](https://gist.github.com/freelancing-solutions)
 
 
@@ -63,7 +63,7 @@
           raise RemoteDataError(r.status_code, r.reason, _url(url, params))
 ```
 
-### Beatiful Python Wrapper Code for Stock Tickers [stock-tickers-data-service](https://github.com/freelancing-solutions/GCP-Based-Database-as-a-Service/blob/main/data_service/views/stocks.py)
+#### Beatiful Python Wrapper Code for Stock Tickers [stock-tickers-data-service](https://github.com/freelancing-solutions/GCP-Based-Database-as-a-Service/blob/main/data_service/views/stocks.py)
 ```python
     @staticmethod
     def get_stock_data(func):
@@ -93,7 +93,7 @@
         return wrapper
 ```
 
-- ### Blue IT Marketing Repositories
+- #### Blue IT Marketing Repositories
   - Blue IT Marketing contains more of the projects of which i worked on as a Freelancer
   - [Blue IT Marketing](https://github.com/Blue-IT-Marketing)
 
