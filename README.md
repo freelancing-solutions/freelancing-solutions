@@ -1,7 +1,7 @@
 
 # GIT Profile of [Justice Ndou](https://justice-ndou.site)
 
-## Freelance Developer
+#### Freelance Developer
 - Experienced in 
   - Google Cloud Platform Based Projects
   - Python 3.8 / 3.9 
@@ -16,22 +16,17 @@
 <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/wired/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/mysql.png"/> 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
+- #### 🔭 projects I’m currently working on ... 
+  - ** [UK Property Development API Proxy](https://github.com/freelancing-solutions/UK-Property-Development-API-Proxy) **
+  - ** [Database as a Service (GCP Platform)](https://github.com/freelancing-solutions/pinydesk) **
+  - ** [Sellenium & Headless Chrome on Google Cloud Run (Docker Instance)](https://github.com/freelancing-solutions/sellenium-headless-on-GCP-Cloud-Run) **
+  - ** [GCP Cloud Run Admin App (Docker, Python3.8, Flask)](https://github.com/freelancing-solutions/Flask-admin_app) **
 
-- 🔭 projects I’m currently working on ...
-  - [UK Property Development API Proxy](https://github.com/freelancing-solutions/UK-Property-Development-API-Proxy)
-  - [Database as a Service (GCP Platform)](https://github.com/freelancing-solutions/pinydesk)
-  - [Sellenium & Headless Chrome on Google Cloud Run (Docker Instance)](https://github.com/freelancing-solutions/sellenium-headless-on-GCP-Cloud-Run)
-  - [GCP Cloud Run Admin App (Docker, Python3.8, Flask)](https://github.com/freelancing-solutions/Flask-admin_app)
-  - 
 
-### Check My Gists to see what i am doing and busy thinking about while coding
-
+### Gist Profile
 - [My Programming Gist](https://gist.github.com/freelancing-solutions)
-  - [JWt Authentication Supporting Service Worker](https://gist.github.com/freelancing-solutions/8891501dbad18d85568380781d3c50f1)
-  - [Flask Based JWt Auth Routes Handler](https://gist.github.com/freelancing-solutions/8891501dbad18d85568380781d3c50f1)
-  - [Using PyTest for Alchemy Models](https://gist.github.com/freelancing-solutions/10edc55038ce2a48c485b16fdbdc69a3)
-  - [Email API Based on Node.JS, NodeMailer, & Mailgen](https://gist.github.com/freelancing-solutions/3b8d5c5001ea94afa9c414b3d5431eaf)
---
+
+
 #### Presently Developing [EODHistorical Data for Stock Exchanges ](https://github.com/freelancing-solutions/python-eodhistoricaldata)
 ```python
   @_handle_environ_error
@@ -67,7 +62,7 @@
           params["api_token"] = "YOUR_HIDDEN_API"
           raise RemoteDataError(r.status_code, r.reason, _url(url, params))
 ```
---
+
 ### Beatiful Python Wrapper Code for Stock Tickers [stock-tickers-data-service](https://github.com/freelancing-solutions/GCP-Based-Database-as-a-Service/blob/main/data_service/views/stocks.py)
 ```python
     @staticmethod
@@ -97,7 +92,7 @@
 
         return wrapper
 ```
---
+
 - ### Blue IT Marketing Repositories
   - Blue IT Marketing contains more of the projects of which i worked on as a Freelancer
   - [Blue IT Marketing](https://github.com/Blue-IT-Marketing)
@@ -114,7 +109,7 @@
   - Creating a Blockchain Based Wallet with Python &amp; Node.js
   - Block Chain Explorers with python [bloxplorer](https://pypi.org/project/bloxplorer/)
   - [Ethereum Block Chain Smart Contracts with Solidity](https://ethereum.org/)
---
+
 - 👯 I’m looking to collaborate on ...
   - **Open Source React.js based projects**
   - **Open Source Javascript based Projects**
@@ -155,7 +150,7 @@
       - I use Jest for Javascript, Node.js, & React Testing , [Jest Docs Here](https://jestjs.io/docs/en/getting-started.html)
     - Sentry.IO
       - For all (Python, Flask, Node.JS, Javascript, Node.js, React and etc ) my production and development error monitoring and reporting , [Sentry Docs](https://docs.sentry.io/)
---
+
 - 📫 I am available for ***Freelance*** Gigs
   - Presently available for freelance Gigs, Going Rate
   - **Hourly $ 30.00 / Hour**
@@ -169,6 +164,6 @@
   - **Twitter : [@blueitserver](https://twitter.com/blueitserver)**
   - **Profile : [Justice Ndou](https://justice-ndou.site)**
   - **Upwork Profile : [Justice](https://www.upwork.com/o/profiles/users/~01f013b5a637b415f8/)**
---
-- Your Support &amp; Contributions Accepted
+
+- I welcome contributions
   - Buy me Coffee: [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=7C8NUSPWJX4Z6)
