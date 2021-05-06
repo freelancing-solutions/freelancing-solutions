@@ -167,3 +167,6 @@
 
 - I welcome contributions
   - Buy me Coffee: [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=7C8NUSPWJX4Z6)
+
+
+![Visitor Count](https://profile-counter.glitch.me/freelancing-solutions/count.svg)
