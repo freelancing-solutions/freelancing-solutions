@@ -27,70 +27,51 @@
 - [My Programming Gist](https://gist.github.com/freelancing-solutions)
 
 
-#### Presently Developing [EODHistorical Data for Stock Exchanges ](https://github.com/freelancing-solutions/python-eodhistoricaldata)
+#### Mocking ndb.Model.put , query and fetch to test ndb.Model [query-mock](https://gist.github.com/freelancing-solutions/fdd288192682d19b96bfaac6426523bb)
 ```python
-  @_handle_environ_error
-  @_handle_request_errors
-  def get_eod_data(symbol: str, exchange: str, start: typing.Union[str, int] = None, end: typing.Union[str, int] = None,
-                   api_key: str = EOD_HISTORICAL_DATA_API_KEY_DEFAULT,
-                   session: typing.Union[None, requests.Session] = None) -> typing.Union[pd.DataFrame, None]:
-      """
-      Returns EOD (end of day data) for a given symbol
-      """
-      symbol_exchange: str = "{}.{}".format(symbol, exchange)
-      session: requests.Session = _init_session(session)
-      start, end = _sanitize_dates(start, end)
-      endpoint: str = "/eod/{}".format(symbol_exchange)
-      url: str = EOD_HISTORICAL_DATA_API_URL + endpoint
-      params: dict = {
-          "api_token": api_key,
-          "from": _format_date(start),
-          "to": _format_date(end)
-      }
-      r: requests.Response = session.get(url, params=params)
-      print('status code : {}'.format(r.status_code))
+class BrokerQueryMock:
+    broker_instance: Broker = Broker()
+    results_range: int = randint(0, 100)
 
-      if r.status_code == requests.codes.ok:
-          # NOTE engine='c' which is default does not support skipfooter
-          df: typing.Union[pd.DataFrame, None] = pd.read_csv(StringIO(r.text), engine='python',
-                                                             skipfooter=1, parse_dates=[0], index_col=0)
-          return df
-      elif r.status_code == api_key_not_authorized:
-          print("API Key Restricted, Try upgrading your API Key: {}".format(__name__))
-          return sentinel
-      else:
-          params["api_token"] = "YOUR_HIDDEN_API"
-          raise RemoteDataError(r.status_code, r.reason, _url(url, params))
-```
+    def __init__(self):
+        pass
 
-#### Beatiful Python Wrapper Code for Stock Tickers [stock-tickers-data-service](https://github.com/freelancing-solutions/GCP-Based-Database-as-a-Service/blob/main/data_service/views/stocks.py)
-```python
-    @staticmethod
-    def get_stock_data(func):
-        @functools.wraps(func)
-        def wrapper(*args, **kwargs):
-            stock_data: dict = kwargs.get('stock_data')
-            if 'stock_id' in stock_data and stock_data['stock_id'] != "":
-                stock_id: str = stock_data.get('stock_id') or None
-            else:
-                stock_id = create_id(size=12)
-            if 'stock_code' in stock_data and stock_data['stock_code'] != "":
-                stock_code: str = stock_data.get('stock_code') or None
-            else:
-                return jsonify({'status': False, 'message': 'Stock Code is required'}), 500
+    def fetch(self) -> typing.List[Broker]:
+        return [self.broker_instance for _ in range(self.results_range)]
 
-            if 'stock_name' in stock_data and stock_data['stock_name'] != "":
-                stock_name: str = stock_data.get('stock_name') or None
-            else:
-                return jsonify({'status': False, 'message': 'Stock Name is required'}), 500
-            if 'symbol' in stock_data and stock_data['symbol'] != "":
-                symbol: str = stock_data.get('symbol') or None
-            else:
-                return jsonify({'status': False, 'message': 'Stock Symbol is required'}), 500
+    def get(self) -> Broker:
+        return self.broker_instance
 
-            return func(stock_id=stock_id, stock_code=stock_code, stock_name=stock_name, symbol=symbol, *args)
 
-        return wrapper
+broker_data_mock: dict = {
+    "broker_id": create_id(),
+    "broker_code": "ASD",
+    "broker_name": "ASD"
+}
+
+
+# noinspection PyShadowingNames
+def test_create_broker(mocker):
+    mocker.patch('google.cloud.ndb.Model.put', return_value=create_id())
+    mocker.patch('google.cloud.ndb.Model.query', return_value=BrokerQueryMock())
+
+    with test_app().app_context():
+        stock_view_instance: StockView = StockView()
+        mocker.patch('data_service.views.stocks.StockView.broker_id_exist', return_value=False)
+        mocker.patch('data_service.views.stocks.StockView.broker_code_exist', return_value=False)
+        response, status = stock_view_instance.create_broker_data(broker_data=broker_data_mock)
+        assert status == 200, "Unable to create broker data"
+
+        mocker.patch('data_service.views.stocks.StockView.broker_code_exist', return_value=True)
+        response, status = stock_view_instance.create_broker_data(broker_data=broker_data_mock)
+        assert status == 500, "Creating duplicate brokers"
+
+        mocker.patch('data_service.views.stocks.StockView.broker_code_exist', return_value=False)
+        mocker.patch('data_service.views.stocks.StockView.broker_id_exist', return_value=True)
+        response, status = stock_view_instance.create_broker_data(broker_data=broker_data_mock)
+        assert status == 500, "Creating duplicate brokers"
+
+    mocker.stopall()
 ```
 
 - #### Blue IT Marketing Repositories
@@ -167,6 +148,7 @@
 
 - I welcome contributions
   - Buy me Coffee: [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=7C8NUSPWJX4Z6)
+  - Buy me Coffee: [!Dogecoin :] DKrBuA8A7N3RRfH4qKn6tnkBe9oLCWzquN 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/freelancing-solutions/count.svg)
