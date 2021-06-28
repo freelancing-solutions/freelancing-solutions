@@ -148,7 +148,6 @@ def test_create_broker(mocker):
 
 - I welcome contributions
   - Buy me Coffee: [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=7C8NUSPWJX4Z6)
-  - Buy me Coffee: [!Dogecoin :] DKrBuA8A7N3RRfH4qKn6tnkBe9oLCWzquN 
-
+  
 
 ![Visitor Count](https://profile-counter.glitch.me/freelancing-solutions/count.svg)
