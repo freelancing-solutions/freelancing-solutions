@@ -7,6 +7,7 @@
   - Python 3.8 / 3.9 
   - Jinja Templates
   - Flask
+  - Django
   - Node.JS
   - Express.JS
   - MySQl, Firebase-Firestore / Datastore / MongoDB / Redis
@@ -78,18 +79,19 @@ def test_create_broker(mocker):
   - Blue IT Marketing contains more of the projects of which i worked on as a Freelancer
   - [Blue IT Marketing](https://github.com/Blue-IT-Marketing)
 
-- 🔭 started collaborating on the following open source projects ....
+- 🔭 Working on the following projects ....
   - [dogecoin website](https://github.com/dogecoin/dogecoin.com)
   - [eosjs General purpose library for the EOSIO blockchain.](https://github.com/EOSIO/eosjs)
   - [EOD Historical Data](https://github.com/freelancing-solutions/python-eodhistoricaldata)
   - [GCP Python NDB](https://github.com/freelancing-solutions/python-ndb)
   - [GCP Python Datastore](https://github.com/freelancing-solutions/python-datastore)
+  - [Memberships &amp; Affiliates Management API](https://github.com/freelancing-solutions/membership_and_affiliate_api)
 --
-- 🌱 I’m currently learning ...
-  - Python Advanced Concepts : Monads , Lazyness , async,await , asyncio &amp; Coroutines -- completed [2021/01/10]
+- 🌱 I’m currently learning ...  
   - Creating a Blockchain Based Wallet with Python &amp; Node.js
   - Block Chain Explorers with python [bloxplorer](https://pypi.org/project/bloxplorer/)
   - [Ethereum Block Chain Smart Contracts with Solidity](https://ethereum.org/)
+  - 
 
 - 👯 I’m looking to collaborate on ...
   - **Open Source React.js based projects**
@@ -102,6 +104,8 @@ def test_create_broker(mocker):
   - **Python**
     - ***3.x***
     - ***Jinja2***
+    - ***Flask***
+    - ***Django***
     - ***Flask***
     - ***Fast-API***
   - **Javascript**
