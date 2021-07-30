@@ -17,12 +17,6 @@
 <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/wired/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/mysql.png"/> 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
-- #### 🔭 projects I’m currently working on ... 
-  - ** [UK Property Development API Proxy](https://github.com/freelancing-solutions/UK-Property-Development-API-Proxy) **
-  - ** [Database as a Service (GCP Platform)](https://github.com/freelancing-solutions/pinydesk) **
-  - ** [Sellenium & Headless Chrome on Google Cloud Run (Docker Instance)](https://github.com/freelancing-solutions/sellenium-headless-on-GCP-Cloud-Run) **
-  - ** [GCP Cloud Run Admin App (Docker, Python3.8, Flask)](https://github.com/freelancing-solutions/Flask-admin_app) **
-
 
 #### Gists Feed
 - [My Programming Gist](https://gist.github.com/freelancing-solutions)
