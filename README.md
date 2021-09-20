@@ -2,19 +2,20 @@
 ### GIT Profile of [Justice Ndou](https://justice-ndou.site)
 
 #### Freelance Developer
-- Experienced in 
-  - Google Cloud Platform Based Projects
-  - Python 3.8 / 3.9 
-  - Jinja Templates
-  - Flask
-  - Django
-  - Fast-API
-  - Node.JS
-  - Express.JS
-  - MySQl, Firebase-Firestore / Datastore / MongoDB / Redis
-  - Kubernettes &amp; Docker
-  - HTML5, CSS &amp; Javascript
-  - React
+- <details close><summary>Experienced in</summary>  
+        - Google Cloud Platform Based Projects
+        - Python 3.8 / 3.9 
+        - Jinja Templates
+        - Flask
+        - Django
+        - Fast-API
+        - Node.JS
+        - Express.JS
+        - MySQl, Firebase-Firestore / Datastore / MongoDB / Redis
+        - Kubernettes &amp; Docker
+        - HTML5, CSS &amp; Javascript
+        - React
+  </details>
 ##
 #### My Tech Stack
 <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/wired/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/mysql.png"/> 
