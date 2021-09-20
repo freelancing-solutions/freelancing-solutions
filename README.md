@@ -117,12 +117,12 @@
   - **$ 450.00 / Gig or Negotiable**
   - HireMe : [UpWork](https://www.upwork.com/o/profiles/users/~01f013b5a637b415f8/)
 
-- 📫 How to reach me: ...
+- 📫 How to reach me &amp; Social links ...
   - **[Contact Me](https://justice-ndou.site/contact)**
   - **Cell : +27762777153**
   - **Email : mobiusndou@gmail.com**
   - **Twitter : [@blueitserver](https://twitter.com/blueitserver)**
   - **Profile : [Justice Ndou](https://justice-ndou.site)**
   - **Upwork Profile : [Justice](https://www.upwork.com/o/profiles/users/~01f013b5a637b415f8/)**
-  
+  - **Stack Overflow : [mobius-crypt on stackoverflow](https://stackoverflow.com/users/5287734/mobius-crypt)**
 ![Visitor Count](https://profile-counter.glitch.me/freelancing-solutions/count.svg)
