@@ -3,18 +3,20 @@
 
 #### Freelance Developer
 - <details close><summary>Experienced in</summary>  
-        - Google Cloud Platform Based Projects
-        - Python 3.8 / 3.9 
-        - Jinja Templates
-        - Flask
-        - Django
-        - Fast-API
-        - Node.JS
-        - Express.JS
-        - MySQl, Firebase-Firestore / Datastore / MongoDB / Redis
-        - Kubernettes &amp; Docker
-        - HTML5, CSS &amp; Javascript
-        - React
+        <ol>
+                <li>- Google Cloud Platform Based Projects</li>
+                <li>- Python 3.8 / 3.9</li>
+                <li>- Jinja Templates</li>
+                <li>- Flask</li>
+                <li>- Django</li>
+                <li>- Fast-API</li>
+                <li>- Node.JS</li>
+                <li>- Express.JS</li>
+                <li>- MySQl, Firebase-Firestore / Datastore / MongoDB / Redis</li>
+                <li>- Kubernettes &amp; Docker</li>
+                <li>- HTML5, CSS &amp; Javascript</li>
+                <li>- React</li>
+        </ol>
   </details>
 ##
 #### My Tech Stack
