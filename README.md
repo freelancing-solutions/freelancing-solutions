@@ -57,7 +57,7 @@
   - **Open Source Block Chain Based Projects**
 --
 - 💬 Ask me about ...
-  - <details close><summary>**Python**</summary>
+  - <details close><summary> **Python** </summary>
         <ul>
                 <li>- ***3.x***</li>
                 <li>- ***Jinja2***</li>
@@ -68,15 +68,16 @@
         </ul>
   - **Javascript**
   - **React.js**
-  - **GCP - Google Cloud Platform**
-    - ***App-Engine***
-      - ***Python 3.x***
-    - ***Cloud-Run***
-      - ***Python (Flask, Fast-API)***
-      - ***Node.js***
-    - ***Functions***
-      - ***Python (Flask, Fast-API)***
-      - ***Node.js***
+        - <details close> <summary> **GCP - Google Cloud Platform** </summary>
+        <ul>
+                <li> - ***App-Engine*** </li>
+                <li> - ***Cloud-Run*** </li>
+                <li> - ***Python (Flask, Fast-API)*** </li>
+                <li> - ***Node.js*** </li>
+                <li> - ***GCP Functions*** </li>
+                <li> - ***GCP Compute*** </li>
+        </ul>
+        </details>
   - **Docker**
   - **Micro-Services**
   - [Firebase](https://firebase.com)
