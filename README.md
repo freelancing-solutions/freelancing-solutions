@@ -57,13 +57,15 @@
   - **Open Source Block Chain Based Projects**
 --
 - 💬 Ask me about ...
-  - **Python**
-    - ***3.x***
-    - ***Jinja2***
-    - ***Flask***
-    - ***Django***
-    - ***Flask***
-    - ***Fast-API***
+  - <details close><summary>**Python**</summary>
+        <ul>
+                <li>- ***3.x***</li>
+                <li>- ***Jinja2***</li>
+                <li>- ***Flask***</li>
+                <li>- ***Django***</li>
+                <li>- ***Flask***</li>
+                <li>- ***Fast-API***</li>
+        </ul>
   - **Javascript**
   - **React.js**
   - **GCP - Google Cloud Platform**
