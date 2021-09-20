@@ -68,7 +68,8 @@
         </ul>
   - **Javascript**
   - **React.js**
-        - <details close> <summary> **GCP - Google Cloud Platform** </summary>
+  - <details close> 
+        <summary> **GCP - Google Cloud Platform** </summary>
         <ul>
                 <li> - ***App-Engine*** </li>
                 <li> - ***Cloud-Run*** </li>
@@ -77,13 +78,16 @@
                 <li> - ***GCP Functions*** </li>
                 <li> - ***GCP Compute*** </li>
         </ul>
-        </details>
+   </details>
   - **Docker**
   - **Micro-Services**
-  - [Firebase](https://firebase.com)
-    - Auth
-    - Firestore
-    - Functions
+  - <details close> <summary> [Firebase](https://firebase.com) </summary>
+        <ul>
+                <li> - Auth </li>
+                <li> - Firestore </li>
+                <li> - Functions</li>
+        </ul>
+    </details>                
   - **Node.js**
   - **Express.js**
   - **Feathers.js**
