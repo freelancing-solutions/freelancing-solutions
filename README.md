@@ -56,14 +56,13 @@
   - **Open Source Block Chain Based Projects**
 --
 - 💬 Ask me about ...
-  - <details close><summary> **Python ...** </summary>
+  - <details close><summary> Python ... </summary>
         <ul>
-                <li>- **3.x** </li>
-                <li>- **Jinja2** </li>
-                <li>- **Flask** </li>
-                <li>- **Django** </li>
-                <li>- **Flask** </li>
-                <li>- **Fast-API** </li>
+                <li> - 3.6, 3.7, 3.8, 3.9 </li>
+                <li> - Jinja 2 &amp; 3  </li>
+                <li> - Flask 1x &amp; 2x </li>
+                <li> - Django </li>     
+                <li> - Fast-API </li>
         </ul>
     </details>
     
