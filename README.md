@@ -32,13 +32,16 @@
   - Blue IT Marketing contains more of the projects of which i worked on as a Freelancer
   - [Blue IT Marketing](https://github.com/Blue-IT-Marketing)
 
-- 🔭 Working on the following projects ....
-  - [dogecoin website](https://github.com/dogecoin/dogecoin.com)
-  - [eosjs General purpose library for the EOSIO blockchain.](https://github.com/EOSIO/eosjs)
-  - [EOD Historical Data](https://github.com/freelancing-solutions/python-eodhistoricaldata)
-  - [GCP Python NDB](https://github.com/freelancing-solutions/python-ndb)
-  - [GCP Python Datastore](https://github.com/freelancing-solutions/python-datastore)
-  - [Memberships &amp; Affiliates Management API](https://github.com/freelancing-solutions/membership_and_affiliate_api)
+- <details close> <summary>🔭 Working on the following projects ....</summary>
+        <ul>
+                <li>- [dogecoin website](https://github.com/dogecoin/dogecoin.com)</li>
+                <li>- [eosjs General purpose library for the EOSIO blockchain.](https://github.com/EOSIO/eosjs)</li>
+                <li>- [EOD Historical Data](https://github.com/freelancing-solutions/python-eodhistoricaldata)</li>
+                <li>- [GCP Python NDB](https://github.com/freelancing-solutions/python-ndb)</li>
+                <li>- [GCP Python Datastore](https://github.com/freelancing-solutions/python-datastore)</li>
+                <li>- [Memberships &amp; Affiliates Management API](https://github.com/freelancing-solutions/membership_and_affiliate_api)</li>
+        </ul>
+</details>
 --
 - 🌱 I’m currently learning ...  
   - Creating a Blockchain Based Wallet with Python &amp; Node.js
