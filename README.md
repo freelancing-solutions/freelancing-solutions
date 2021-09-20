@@ -86,16 +86,16 @@
   - **Feathers.js**
   - <details close> 
       <summary>**Code Testing and Error Reporting**</summary>
-      <ol>
-      <li>Pytest.org 
-        I use Pytest to test my python code, [documentations can be found here](https://docs.pytest.org/en/stable/contents.html)</li>
-        
-      <li>JestJs.io
-         I use Jest for Javascript, Node.js, & React Testing , [Jest Docs Here](https://jestjs.io/docs/en/getting-started.html)
-      </li>
-      <li> Sentry.IO
-        For all (Python, Flask, Node.JS, Javascript, Node.js, React and etc ) my production and development error monitoring and reporting , [Sentry Docs (https://docs.sentry.io/)</li>
-  </ol>
+              <ul>
+                      <li>**Pytest.org** <br>
+                        I use Pytest to test my python code, [documentations can be found here](https://docs.pytest.org/en/stable/contents.html)</li>
+
+                      <li>**JestJs.io** <br>
+                         I use Jest for Javascript, Node.js, & React Testing , [Jest Docs Here](https://jestjs.io/docs/en/getting-started.html)
+                      </li>
+                      <li> **Sentry.IO** <br>
+                        For all (Python, Flask, Node.JS, Javascript, Node.js, React and etc ) my production and development error monitoring and reporting , [Sentry Docs       
+                </ul>
   </details
 
 - 📫 I am available for ***Freelance*** Gigs
