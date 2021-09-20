@@ -3,7 +3,7 @@
 
 #### Freelance Developer
 - <details close><summary>Experienced in</summary>  
-        <ol>
+        <ul>
                 <li>- Google Cloud Platform Based Projects</li>
                 <li>- Python 3.8 / 3.9</li>
                 <li>- Jinja Templates</li>
@@ -16,7 +16,7 @@
                 <li>- Kubernettes &amp; Docker</li>
                 <li>- HTML5, CSS &amp; Javascript</li>
                 <li>- React</li>
-        </ol>
+        </ul>
   </details>
 ##
 #### My Tech Stack
