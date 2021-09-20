@@ -2,7 +2,7 @@
 ### GIT Profile of [Justice Ndou](https://justice-ndou.site)
 
 #### Freelance Developer
-- <details close><summary><span style="colour:red">Experienced in</span></summary>  
+- <details close><summary><span style="color:red">Experienced in</span></summary>  
         <ul>
                 <li>- Google Cloud Platform Based Projects</li>
                 <li>- Python 3.8 / 3.9</li>
