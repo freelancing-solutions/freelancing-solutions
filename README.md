@@ -13,8 +13,8 @@
                 <li> - Node.JS</li>
                 <li> - Express.JS</li>
                 <li> - MySQl, Firebase-Firestore / Datastore / MongoDB / Redis</li>
-                <li> - Kubernettes &amp;amp; Docker</li>
-                <li> - HTML5, CSS &amp;amp; Javascript</li>
+                <li> - Kubernettes &amp; Docker</li>
+                <li> - HTML5, CSS &amp; Javascript</li>
                 <li> - React</li>
         </ul>
   </details>
