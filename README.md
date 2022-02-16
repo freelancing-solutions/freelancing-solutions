@@ -1,7 +1,5 @@
 
-### GIT Profile of [Justice Ndou](https://justice-ndou.site)
-
-#### Freelance Developer
+## Freelance Developer
 #### Looking for freelance back end development jobs
 - <details close><summary><span style="color:red"> Experienced in </span></summary>  
         <ul>
