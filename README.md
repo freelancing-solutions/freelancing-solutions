@@ -5,7 +5,7 @@
         <ul>
                 <li> - Google Cloud Platform Based Projects</li>
                 <li> - Python 3.8 / 3.9</li>
-                <li> - Jinja Templates</li>
+                <li> - Jinja Templates</li> 
                 <li> - Flask</li>
                 <li> - Django</li>
                 <li> - Fast-API</li>
