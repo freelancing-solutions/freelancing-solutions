@@ -118,7 +118,7 @@
 
 - 📫 How to reach me &amp; Social links ...
   - **[Contact Me](https://justice-ndou.site/contact)**
-  - **Cell : +27762777153**
+  - **WhatsAPP : +27762777153**
   - **Email : mobiusndou@gmail.com**
   - **Twitter : [@blueitserver](https://twitter.com/blueitserver)**
   - **Profile : [Justice Ndou](https://justice-ndou.site)**
