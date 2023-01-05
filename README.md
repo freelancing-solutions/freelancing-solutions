@@ -113,16 +113,12 @@
 - 📫 I am available for ***Freelance*** Gigs
   - Presently available for freelance Gigs, Going Rate
   - **Hourly $ 30.00 / Hour**
-  - **$ 450.00 / Gig or Negotiable**
-  - HireMe : [UpWork](https://www.upwork.com/o/profiles/users/~01f013b5a637b415f8/)
+  - **$ 450.00 / Gig or Negotiable**  
 
-- 📫 How to reach me &amp; Social links ...
-  - **[Contact Me](https://justice-ndou.site/contact)**
-  - **WhatsAPP : +27762777153**
+- 📫 How to reach me &amp; Social links ...    
   - **Email : mobiusndou@gmail.com**
   - **Twitter : [@blueitserver](https://twitter.com/blueitserver)**
-  - **Profile : [Justice Ndou](https://justice-ndou.site)**
   - **Stack Overflow : [mobius-crypt on stackoverflow](https://stackoverflow.com/users/5287734/mobius-crypt)**
-  - **Python Development Blog : [GCP Python Dev Site](https://gcp-python-dev.site)**
+  
   
 ![Visitor Count](https://profile-counter.glitch.me/freelancing-solutions/count.svg)
