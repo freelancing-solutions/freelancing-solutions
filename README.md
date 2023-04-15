@@ -3,8 +3,9 @@
 #### Looking for freelance back end development jobs
 - <details close><summary><span style="color:red"> Experienced in </span></summary>  
         <ul>
-                <li> - Google Cloud Platform Based Projects</li>
-                <li> - Python 3.8 / 3.9</li>
+                <li> - Cloud Projects , AWS, Azure & GCP </li>
+                <li> - Serverless Functions , Virtual Servers and etc</li>
+                <li> - Python 3.8 / 3.9 / 3.10 / 3.11</li>
                 <li> - Jinja Templates</li> 
                 <li> - Flask</li>
                 <li> - Django</li>
