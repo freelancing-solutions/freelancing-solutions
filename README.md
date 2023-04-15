@@ -63,7 +63,7 @@
   - **React.js**
     
   - <details close> 
-        <summary> GCP - Google Cloud Platform </summary>
+        <summary> Cloud Platforms </summary>
         <ul>
                 <li> - AWS - EC2 </li>
                 <li> - AWS - Databases </li>
