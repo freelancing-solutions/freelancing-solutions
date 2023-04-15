@@ -27,25 +27,18 @@
 - [My Programming Gist](https://gist.github.com/freelancing-solutions)
 
 
-- #### Blue IT Marketing Repositories
-  - Blue IT Marketing contains more of the projects of which i worked on as a Freelancer
-  - [Blue IT Marketing](https://github.com/Blue-IT-Marketing)
+- #### MJ API Development Repositories  
+  - [https://github.com/MJ-API-Development](https://github.com/MJ-API-Development)
 
 - <details close> <summary>🔭 Working on the following projects ....</summary>
         <ul>
-                <li> - [dogecoin website](https://github.com/dogecoin/dogecoin.com)</li>
-                <li> - [eosjs General purpose library for the EOSIO blockchain.](https://github.com/EOSIO/eosjs)</li>
-                <li> - [EOD Historical Data](https://github.com/freelancing-solutions/python-eodhistoricaldata)</li>
-                <li> - [GCP Python NDB](https://github.com/freelancing-solutions/python-ndb)</li>
-                <li> - [GCP Python Datastore](https://github.com/freelancing-solutions/python-datastore)</li>
-                <li> - [Memberships &amp; Affiliates Management API](https://github.com/freelancing-solutions/membership_and_affiliate_api)</li>
+                <li> - [Intelligent Stock Market API](https://github.com/MJ-API-Development/stock-api-pythonsdk)</li>
+                <li> - [EOD-Stock-API API Gateway](https://github.com/MJ-API-Development/api-gateway)</li>
+                <li> - [Gateway Cloudflare Routers](https://github.com/MJ-API-Development/gateway-router)</li>
+                <li> - [EOD Stock API Cloudflare Workers](https://github.com/MJ-API-Development/cloudflare_gateway_workers)</li>
+                <li> - [Financial News API - Service](https://github.com/MJ-API-Development/NewsAPI)</li>
         </ul>
 </details>
-
-- 🌱 I’m currently learning ...  
-  - Creating a Blockchain Based Wallet with Python &amp; Node.js
-  - Block Chain Explorers with python [bloxplorer](https://pypi.org/project/bloxplorer/)
-  - [Ethereum Block Chain Smart Contracts with Solidity](https://ethereum.org/)
 
 - 👯 I’m looking to collaborate on ...
   - **Open Source React.js based projects**
@@ -57,7 +50,7 @@
 - 💬 Ask me about ...
   - <details close><summary> Python ... </summary>
         <ul>
-                <li> - 3.6, 3.7, 3.8, 3.9 </li>
+                <li> - ^3.9 </li>
                 <li> - Jinja 2 &amp; 3  </li>
                 <li> - Flask 1x &amp; 2x </li>
                 <li> - Django </li>     
@@ -71,12 +64,16 @@
   - <details close> 
         <summary> GCP - Google Cloud Platform </summary>
         <ul>
+                <li> - AWS - EC2 </li>
+                <li> - AWS - Databases </li>
+                <li> - AWS - Lambda </li>
                 <li> - App-Engine </li>
                 <li> - Cloud-Run </li>
-                <li> - Python (Flask, Fast-API) </li>
-                <li> - Node.js </li>
                 <li> - GCP Functions </li>
                 <li> - GCP Compute </li>
+                <li> - Cloudflare DNS, Workers, Caching, & Routing </li>                
+                <li> - Python (Flask, Fast-API) </li>
+                <li> - Node.js </li>
         </ul>
    </details>
   
@@ -116,8 +113,8 @@
   - **$ 450.00 / Gig or Negotiable**  
 
 - 📫 How to reach me &amp; Social links ...    
-  - **Email : mobiusndou@gmail.com**
-  - **Twitter : [@blueitserver](https://twitter.com/blueitserver)**
+  - **Email : justice@eod-stock-api.site**
+  - **Twitter : [@eodstockapi](https://twitter.com/EodStockAPI)**
   - **Stack Overflow : [mobius-crypt on stackoverflow](https://stackoverflow.com/users/5287734/mobius-crypt)**
   
   
