@@ -110,8 +110,8 @@
 
 - 📫 I am available for ***Freelance*** Gigs
   - Presently available for freelance Gigs, Going Rate
-  - **Hourly $ 30.00 / Hour**
-  - **$ 450.00 / Gig or Negotiable**  
+  - **Hourly $ 10.00 / Hour**
+  - **$ 250.00 / Gig or Negotiable**  
 
 - 📫 How to reach me &amp; Social links ...    
   - **Email : justice@eod-stock-api.site**
