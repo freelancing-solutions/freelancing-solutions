@@ -1,6 +1,6 @@
 
-## Freelance Developer
-#### Looking for freelance back end development jobs
+## AJ Ndou
+#### Developer & Founder @ [**MJ API Development Pty LTD**](https://github.com/MJ-API-Development)
 - <details close><summary><span style="color:red"> Experienced in </span></summary>  
         <ul>
                 <li> - Cloud Projects , AWS, Azure & GCP </li>
