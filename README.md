@@ -1,6 +1,14 @@
 
 ## AJ Ndou
 #### Developer & Founder @ [**MJ API Development Pty LTD**](https://github.com/MJ-API-Development)
+
+#### Active Projects
+<ul>
+        <li><a href="https://eod-stock-api.site"> EOD Stock Market API </a> </li>
+        <li><a href="https://jobfinders.site"> Job Finders, Online South African Jobs Curation </a> </li>
+        <li><a href="https://rental-manager.site"> Rental &amp; Property Manager </a> </li>
+</ul>
+
 - <details close><summary><span style="color:red"> Experienced in </span></summary>  
         <ul>
                 <li> - Cloud Projects , AWS, Azure & GCP </li>
