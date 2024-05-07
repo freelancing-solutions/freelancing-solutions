@@ -122,7 +122,7 @@
   - **$ 250.00 / Gig or Negotiable**  
 
 - 📫 How to reach me &amp; Social links ...    
-  - **Email : justice@eod-stock-api.site**
+  - **Email : justice@jobfinders.site**
   - **Twitter : [@eodstockapi](https://twitter.com/EodStockAPI)**
   - **Stack Overflow : [mobius-crypt on stackoverflow](https://stackoverflow.com/users/5287734/mobius-crypt)**
   
