@@ -1,6 +1,6 @@
 
-## AJ Ndou
-#### Developer & Founder @ [**MJ API Development Pty LTD**](https://github.com/MJ-API-Development)
+
+
 
 #### Active Projects
 <ul>
